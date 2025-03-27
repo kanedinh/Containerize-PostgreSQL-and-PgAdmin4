@@ -47,7 +47,7 @@ Run command to create containers:
 docker-compose up
 ```
 
-Access to [PgAdmin4 User Interface](localhost:8080)
+Access to [PgAdmin4 User Interface](http://localhost:8080)
 
 Add new server and enter:
 
