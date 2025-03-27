@@ -4,7 +4,9 @@
 
 ### Only using PostgreSQL container.
 User: root
+
 Password: root
+
 Database: postgres
 
 ##### Build image:
@@ -37,6 +39,7 @@ psql -h localhost -U root -d postgres
 
 ### Using both PostgreSQL and PgAdmin4 container.
 PG_email: admin@admin.com
+
 PG_password: admin
 
 Run command to create containers:
